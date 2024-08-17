@@ -1,0 +1,439 @@
+[
+    {
+        "inv": [
+            {
+                "icon": "fa-solid fa-box",
+                "slots": "1",
+                "peso": 1000,
+                "pos": {
+                    "y": -872.0836181640625,
+                    "x": 333.30682373046877,
+                    "z": 29.2916030883789
+                },
+                "label": "dasdsa",
+                "grado": "1",
+                "iconColor": "#00ADED",
+                "nomedeposito": "dasdsa"
+            }
+        ],
+        "camerino": {
+            "y": -876.2451782226563,
+            "x": 317.0891723632813,
+            "z": 29.29157638549804
+        },
+        "gradi": [
+            {
+                "label": "Role 0",
+                "name": "grade0",
+                "salary": "104",
+                "grade": 0
+            },
+            {
+                "label": "Role 1",
+                "name": "grade1",
+                "salary": "104",
+                "grade": 1
+            },
+            {
+                "label": "Vice Boss",
+                "name": "viceboss",
+                "salary": "104",
+                "grade": 2
+            },
+            {
+                "label": "Boss",
+                "name": "boss",
+                "salary": "104",
+                "grade": 3
+            }
+        ],
+        "bossmenu": {
+            "gradoboss": 1,
+            "pos": {
+                "y": -876.4691162109375,
+                "x": 324.6395568847656,
+                "z": 29.29157638549804
+            }
+        },
+        "label": "das",
+        "garage": {
+            "pos1": {
+                "y": -876.3712768554688,
+                "x": 310.3970947265625,
+                "z": 29.29157638549804
+            },
+            "heading": 357.6044006347656,
+            "veicoli": [
+                {
+                    "label": "negor",
+                    "icon": "fa-car",
+                    "args": {
+                        "model": "t20",
+                        "fullkit": true,
+                        "grado": "1",
+                        "targa": "nerog",
+                        "colore": {
+                            "y": 0.0,
+                            "x": 157.0,
+                            "z": 255.0
+                        }
+                    },
+                    "iconColor": "#00ADED"
+                }
+            ],
+            "pos2": {
+                "y": -866.3987426757813,
+                "x": 310.7629699707031,
+                "z": 29.23290824890136
+            }
+        },
+        "job": "das"
+    },
+    {
+        "inv": [
+            {
+                "icon": "fa-solid fa-box",
+                "slots": "12",
+                "peso": 14000,
+                "pos": {
+                    "y": -846.6716918945313,
+                    "x": 208.78225708007813,
+                    "z": 30.41123580932617
+                },
+                "label": "fdasfds",
+                "grado": "1",
+                "iconColor": "#00ADED",
+                "nomedeposito": "fdasfds"
+            }
+        ],
+        "job": "negro",
+        "gradi": [
+            {
+                "label": "Role 0",
+                "name": "grade0",
+                "salary": "104",
+                "grade": 0
+            },
+            {
+                "label": "Role 1",
+                "name": "grade1",
+                "salary": "104",
+                "grade": 1
+            },
+            {
+                "label": "Vice Boss",
+                "name": "viceboss",
+                "salary": "104",
+                "grade": 2
+            },
+            {
+                "label": "Boss",
+                "name": "boss",
+                "salary": "104",
+                "grade": 3
+            }
+        ],
+        "bossmenu": {
+            "gradoboss": 1,
+            "pos": {
+                "y": -845.8667602539063,
+                "x": 218.65640258789066,
+                "z": 30.34890174865722
+            }
+        },
+        "label": "negro",
+        "garage": {
+            "veicoli": []
+        }
+    },
+    {
+        "inv": [
+            {
+                "icon": "fa-solid fa-box",
+                "slots": "12",
+                "peso": 12000,
+                "pos": {
+                    "y": -856.697998046875,
+                    "x": 239.66859436035157,
+                    "z": 29.6501350402832
+                },
+                "label": "dsadas",
+                "grado": "1",
+                "iconColor": "#00ADED",
+                "nomedeposito": "dsadas"
+            }
+        ],
+        "job": "sa",
+        "gradi": [
+            {
+                "label": "Role 0",
+                "name": "grade0",
+                "salary": "104",
+                "grade": 0
+            },
+            {
+                "label": "Role 1",
+                "name": "grade1",
+                "salary": "104",
+                "grade": 1
+            },
+            {
+                "label": "Vice Boss",
+                "name": "viceboss",
+                "salary": "104",
+                "grade": 2
+            },
+            {
+                "label": "Boss",
+                "name": "boss",
+                "salary": "104",
+                "grade": 3
+            }
+        ],
+        "bossmenu": {
+            "gradoboss": 1,
+            "pos": {
+                "y": -859.237548828125,
+                "x": 232.8580780029297,
+                "z": 29.92574119567871
+            }
+        },
+        "label": "sa",
+        "garage": {
+            "veicoli": []
+        }
+    },
+    {
+        "inv": [],
+        "job": "wa",
+        "gradi": [
+            {
+                "icon": "fa-user",
+                "salario": 1,
+                "label": "SDfds",
+                "name": "sdadas",
+                "grade": 0,
+                "iconColor": "#00ADED"
+            }
+        ],
+        "bossmenu": {
+            "gradoboss": 1,
+            "pos": {
+                "y": -854.47509765625,
+                "x": 226.73484802246098,
+                "z": 29.95252418518066
+            }
+        },
+        "label": "wa",
+        "garage": {
+            "veicoli": []
+        }
+    },
+    {
+        "inv": [],
+        "job": "fedws",
+        "gradi": [
+            {
+                "icon": "fa-user",
+                "salario": 12,
+                "label": "asfsafsa",
+                "name": "sfdasfsas",
+                "grade": 0,
+                "iconColor": "#00ADED"
+            }
+        ],
+        "bossmenu": {
+            "gradoboss": 1,
+            "pos": {
+                "y": -853.3234252929688,
+                "x": 225.8719024658203,
+                "z": 29.97887229919433
+            }
+        },
+        "label": "fedws",
+        "garage": {
+            "veicoli": []
+        }
+    },
+    {
+        "inv": [],
+        "job": "sdasa",
+        "gradi": [
+            {
+                "icon": "fa-user",
+                "grade": 0,
+                "label": "efwaees",
+                "salary": 12,
+                "name": "wfewef",
+                "iconColor": "#00ADED"
+            },
+            {
+                "icon": "fa-user",
+                "grade": 1,
+                "label": "sfsafds",
+                "salary": 14,
+                "name": "dfsadfsd",
+                "iconColor": "#00ADED"
+            }
+        ],
+        "bossmenu": {
+            "gradoboss": 1,
+            "pos": {
+                "y": -853.26318359375,
+                "x": 225.8564910888672,
+                "z": 29.97945976257324
+            }
+        },
+        "label": "sdasa",
+        "garage": {
+            "veicoli": []
+        }
+    },
+    {
+        "inv": [
+            {
+                "icon": "fa-solid fa-box",
+                "slots": "12",
+                "peso": 12000,
+                "iconColor": "#00ADED",
+                "label": "asdsada",
+                "grado": "1",
+                "pos": {
+                    "y": -865.5967407226563,
+                    "x": 217.4868316650391,
+                    "z": 30.49211692810058
+                },
+                "nomedeposito": "asdsada"
+            }
+        ],
+        "job": "dsa",
+        "gradi": [
+            {
+                "icon": "fa-user",
+                "grade": 0,
+                "label": "Lol",
+                "salary": 14,
+                "name": "negro",
+                "iconColor": "#00ADED"
+            },
+            {
+                "icon": "fa-user",
+                "grade": 1,
+                "label": "Lola1",
+                "salary": 15,
+                "name": "stoto",
+                "iconColor": "#00ADED"
+            }
+        ],
+        "bossmenu": {
+            "gradoboss": 0,
+            "pos": {
+                "y": -862.474365234375,
+                "x": 221.9788055419922,
+                "z": 30.2924690246582
+            }
+        },
+        "label": "dsa",
+        "garage": {
+            "veicoli": []
+        }
+    },
+    {
+        "garage": {
+            "veicoli": []
+        },
+        "job": "aa",
+        "gradi": [
+            {
+                "icon": "fa-user",
+                "name": "stata",
+                "label": "Lola",
+                "grade": 0,
+                "salary": 15,
+                "iconColor": "#00ADED"
+            },
+            {
+                "icon": "fa-user",
+                "name": "babas",
+                "label": "Nego",
+                "grade": 1,
+                "salary": 15,
+                "iconColor": "#00ADED"
+            }
+        ],
+        "bossmenu": {
+            "gradoboss": 0,
+            "pos": {
+                "y": -857.200927734375,
+                "x": 227.19932556152345,
+                "z": 30.06817054748535
+            }
+        },
+        "label": "aa",
+        "inv": [
+            {
+                "icon": "fa-solid fa-box",
+                "slots": "14",
+                "peso": 16000,
+                "iconColor": "#00ADED",
+                "label": "das",
+                "grado": "0",
+                "nomedeposito": "das",
+                "pos": {
+                    "y": -860.024169921875,
+                    "x": 232.11270141601566,
+                    "z": 29.93598937988281
+                }
+            }
+        ]
+    },
+    {
+        "garage": {
+            "veicoli": []
+        },
+        "job": "lol",
+        "gradi": [
+            {
+                "icon": "fa-user",
+                "grade": 0,
+                "name": "sadsadas",
+                "salary": 16,
+                "label": "Negrongyl",
+                "iconColor": "#00ADED"
+            },
+            {
+                "icon": "fa-user",
+                "grade": 1,
+                "name": "lolas",
+                "salary": 14,
+                "label": "Poccodio",
+                "iconColor": "#00ADED"
+            }
+        ],
+        "bossmenu": {
+            "gradoboss": 1,
+            "pos": {
+                "x": 245.61549377441407,
+                "y": -867.4862060546875,
+                "z": 29.57544136047363
+            }
+        },
+        "label": "lol",
+        "inv": [
+            {
+                "icon": "fa-solid fa-box",
+                "peso": 13000,
+                "nomedeposito": "chiavo mannt",
+                "slots": "12",
+                "label": "chiavo mannt",
+                "grado": "1",
+                "pos": {
+                    "x": 238.33953857421876,
+                    "y": -863.8904418945313,
+                    "z": 29.7664566040039
+                },
+                "iconColor": "#00ADED"
+            }
+        ]
+    }
+]
